@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miguel\\source\\repos\\Atendimento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C9C605-0EEC-4A44-AC26-8EB96BACF79A}|Atendimento\\Atendimento.vbproj|c:\\users\\miguel\\source\\repos\\atendimento\\atendimento\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{16C9C605-0EEC-4A44-AC26-8EB96BACF79A}|Atendimento\\Atendimento.vbproj|solutionrelative:atendimento\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C9C605-0EEC-4A44-AC26-8EB96BACF79A}|Atendimento\\Atendimento.vbproj|C:\\Users\\miguel\\source\\repos\\Atendimento\\atendimento\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{16C9C605-0EEC-4A44-AC26-8EB96BACF79A}|Atendimento\\Atendimento.vbproj|solutionrelative:atendimento\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C9C605-0EEC-4A44-AC26-8EB96BACF79A}|Atendimento\\Atendimento.vbproj|C:\\Users\\miguel\\source\\repos\\Atendimento\\atendimento\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{16C9C605-0EEC-4A44-AC26-8EB96BACF79A}|Atendimento\\Atendimento.vbproj|solutionrelative:atendimento\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\miguel\\source\\repos\\Atendimento\\Atendimento\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Atendimento\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\miguel\\source\\repos\\Atendimento\\Atendimento\\Form1.Designer.vb",
+              "RelativeToolTip": "Atendimento\\Form1.Designer.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAFwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-23T15:12:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\miguel\\source\\repos\\Atendimento\\Atendimento\\Form1.vb",
+              "RelativeDocumentMoniker": "Atendimento\\Form1.vb",
+              "ToolTip": "C:\\Users\\miguel\\source\\repos\\Atendimento\\Atendimento\\Form1.vb",
+              "RelativeToolTip": "Atendimento\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-22T16:49:49.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\miguel\\source\\repos\\Atendimento\\Atendimento\\Form1.vb",
+              "RelativeDocumentMoniker": "Atendimento\\Form1.vb",
+              "ToolTip": "C:\\Users\\miguel\\source\\repos\\Atendimento\\Atendimento\\Form1.vb [Design]",
+              "RelativeToolTip": "Atendimento\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-22T16:42:14.086Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
